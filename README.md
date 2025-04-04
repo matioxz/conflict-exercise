@@ -1,1 +1,3 @@
-# el archivo esta en problemas :C
+
+# Este es un cambio en la feature branch.
+>>>>>>> feature-branch
